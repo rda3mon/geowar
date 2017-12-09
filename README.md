@@ -1,8 +1,8 @@
 Geowar -- GAME
 ======
 
-Simple html5 game similar to tron(aka block the opponent) but not as fast paced(aka boring)
+html5 game similar to tron
 
-<img src="https://github.com/mv945/Geowar/blob/master/snapshots/img2.png?raw=true" alt="Geowar Image 1">
-<br>
-<img src="https://github.com/mv945/Geowar/blob/master/snapshots/img3.png?raw=true" alt="Geowar Image 2">
+![Geowar Image 1](/snapshots/img2.png?raw=true)
+
+![Geowar Image 2](/snapshots/img3.png?raw=true)
