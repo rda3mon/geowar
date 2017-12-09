@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.com/1999/xhtml" lang="en-US">
+<head>
+<!-- Page Title -->
+<title>Geowar</title>
+<!-- Style Sheet -->
+<link href="../../style.css" rel="stylesheet" type="text/css" media="screen" />
+<style type="text/css">
+canvas {position:relative;}
+</style>
+<script type="text/javascript" src="geowars.js"></script>
+</head>
+<body onload="Geowars.main();" id="body1">
+<div class="post">
+	<h2 class="title"><a href="#">Geowar</a></h2>
+</div>
+<center>
+<!-- "save my score" button to save the score in the database -->
+<form name="geowarWinner">
+<input type="button" value="Save my score" onClick="javascript:void(0)" />
+</form>
+<canvas id="geowars" width="650" height="750"></canvas>
+</body>
+</html>
